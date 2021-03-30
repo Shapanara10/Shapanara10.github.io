@@ -1,0 +1,16 @@
+Deskripsi Tugas Portofolio
+
+Nama : Rhenaldi Octa Shapanra
+Nim    : 1915036001
+Kelas  : Sistem Informasi A 2019
+Matkul : Desain UI/UX
+Dosen Pengampuh by Hario Jati Setyadi, M. Kom 
+
+Saya Menggunakan:
+
+* Html
+* Css
+* Js
+* Bootstrap 5
+* Parallax.js (Untuk membuat efek parallax)
+* Gambar Dari dribbble dan Freepick
